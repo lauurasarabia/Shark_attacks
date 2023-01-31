@@ -14,10 +14,7 @@ The rules to participate in this tournament are:
 
 It will be followed by the following ranking of points: 
 
-#👨🏻 HEAD = head|skull|throat|face|eyes|ear|neck|cheeks|nose|forehead --> 100 POINTS
-#🕺🏻 BODY = body|ribs|heart|back|waist|hips|belly|abdomen|chest --> 50 POINTS
-#🦵 🏼LEGS = leg|ankle|groin|thigh|knee|foot|feet|buttocks --> 20 POINTS
-#💪🏼 ARMS = arm|hand|finger|elbow|forearm|wrist --> 10 POINTS
+! [MyImage] (https://github.com/lauurasarabia/attacks_project/blob/main/Images/Points.png?raw=true)
 
 But first, we need to clean our database. These are the steps we are going to follow:
 
