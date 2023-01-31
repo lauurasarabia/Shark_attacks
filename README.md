@@ -14,7 +14,10 @@ The rules to participate in this tournament are:
 
 It will be followed by the following ranking of points: 
 
-! [MyImage] (https://github.com/lauurasarabia/attacks_project/blob/main/Images/Points.png?raw=true)
+# 100 Pts - HEAD👨🏻
+#   50 Pts - BODY🕺🏻
+#   20 Pts - LEGS 🦵🏼
+#   10 Pts - ARMS💪🏼
 
 But first, we need to clean our database. These are the steps we are going to follow:
 
