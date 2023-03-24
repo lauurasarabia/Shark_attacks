@@ -1,6 +1,6 @@
 ,Country,Activity,Age,Fatal (Y/N),Age Group,Top Species,Arm Pts,Leg Pts,Body Pts,Head Pts,Total Pts
 0,USA,Paddling,57,N,Adult,white shark,0.0,0.0,0.0,0.0,0.0
-1,BRAZIL,Swimming,18,Y,Adult,tiger shark,0.0,0.0,0.0,0.0,0.0
+1,BRAZIL,Swimming,18,Y,Teenager,tiger shark,0.0,0.0,0.0,0.0,0.0
 2,USA,Walking,15,N,Teenager,bull shark,0.0,20.0,0.0,0.0,20.0
 3,AUSTRALIA,Feeding sharks,34,N,Adult,nurse shark,10.0,0.0,0.0,0.0,10.0
 4,COSTA RICA,Scuba diving,30,N,Adult,tiger shark,0.0,0.0,0.0,100.0,100.0
@@ -13,7 +13,7 @@
 11,AUSTRALIA,Swimming,55,N,Adult,white shark,0.0,20.0,0.0,0.0,20.0
 12,AUSTRALIA,Walking,35,N,Adult,bull shark,0.0,20.0,0.0,0.0,20.0
 13,ECUADOR,Snorkeling,45,N,Adult,galapagos shark,0.0,20.0,0.0,0.0,20.0
-14,AUSTRALIA,,18,N,Adult,bull shark,0.0,20.0,0.0,0.0,20.0
+14,AUSTRALIA,,18,N,Teenager,bull shark,0.0,20.0,0.0,0.0,20.0
 15,NEW CALEDONIA,Spearfishing,40,N,Adult,bull shark,10.0,0.0,50.0,0.0,60.0
 16,AUSTRALIA,Free diving,28,N,Adult,white shark,0.0,0.0,0.0,0.0,0.0
 17,USA,Surfing,54,N,Adult,tiger shark,0.0,20.0,0.0,0.0,20.0
@@ -85,7 +85,7 @@
 83,USA,Surfing,38,N,Adult,white shark,0.0,0.0,0.0,0.0,0.0
 84,AUSTRALIA,Surfing,52,N,Adult,white shark,0.0,0.0,0.0,0.0,0.0
 85,AUSTRALIA,Body boarding ,32,N,Adult,white shark,0.0,20.0,0.0,0.0,20.0
-86,USA,Swimming,18,N,Adult,bull shark,10.0,0.0,0.0,0.0,10.0
+86,USA,Swimming,18,N,Teenager,bull shark,10.0,0.0,0.0,0.0,10.0
 87,SOUTH AFRICA,Body Boarding,19,N,Adult,white shark,0.0,20.0,0.0,0.0,20.0
 88,SOUTH AFRICA,Surfing,23,N,Adult,white shark,0.0,20.0,0.0,0.0,20.0
 89,USA,Swimming,6,N,Child,tiger shark,0.0,20.0,0.0,0.0,20.0
@@ -141,7 +141,7 @@
 139,USA,Snorkeling,20,Y,Adult,tiger shark,0.0,0.0,0.0,0.0,0.0
 140,USA,Surfing,10,N,Child,bull shark,0.0,0.0,0.0,0.0,0.0
 141,USA,Fishing,17,N,Teenager,bull shark,0.0,20.0,0.0,0.0,20.0
-142,USA,Surfing,18,N,Adult,tiger shark,0.0,20.0,0.0,0.0,20.0
+142,USA,Surfing,18,N,Teenager,tiger shark,0.0,20.0,0.0,0.0,20.0
 143,BAHAMAS,Cleaning fish,64,N,Adult,nurse shark,10.0,0.0,0.0,0.0,10.0
 144,USA,Swimming,28,N,Adult,tiger shark,0.0,20.0,0.0,0.0,20.0
 145,USA,Diving,32,N,Adult,galapagos shark,10.0,0.0,0.0,0.0,10.0
@@ -215,10 +215,10 @@
 213,USA,Kayak Fishing,45,N,Adult,white shark,0.0,0.0,0.0,0.0,0.0
 214,USA,Swimming,13,N,Teenager,tiger shark,10.0,0.0,0.0,100.0,110.0
 215,USA,Surfing,20,N,Adult,bull shark,0.0,20.0,0.0,0.0,20.0
-216,AUSTRALIA,Body boarding,18,N,Adult,white shark,0.0,0.0,0.0,0.0,0.0
+216,AUSTRALIA,Body boarding,18,N,Teenager,white shark,0.0,0.0,0.0,0.0,0.0
 217,BRAZIL,Surfing,29,N,Adult,hammerhead shark,0.0,20.0,0.0,0.0,20.0
 218,SOUTH AFRICA,Standing,37,Y,Adult,white shark,0.0,0.0,0.0,0.0,0.0
-219,AUSTRALIA,Spearfishing,18,N,Adult,bull shark,10.0,0.0,0.0,100.0,110.0
+219,AUSTRALIA,Spearfishing,18,N,Teenager,bull shark,10.0,0.0,0.0,100.0,110.0
 220,NEW ZEALAND,Swimming to shore from capsized kayak,24,Y,Adult,white shark,0.0,0.0,0.0,0.0,0.0
 221,USA,Diving,58,N,Adult,tiger shark,0.0,20.0,50.0,0.0,70.0
 222,AUSTRALIA,Kayaking,27,N,Adult,white shark,0.0,0.0,0.0,0.0,0.0
@@ -300,7 +300,7 @@
 298,SOUTH AFRICA,Surf-skiing,52,N,Adult,white shark,0.0,0.0,0.0,0.0,0.0
 299,AUSTRALIA,Surfing,28,N,Adult,tiger shark,0.0,0.0,0.0,0.0,0.0
 300,AUSTRALIA,Surfing,26,N,Adult,white shark,0.0,20.0,0.0,0.0,20.0
-301,USA,Wading,18,N,Adult,bull shark,0.0,0.0,0.0,0.0,0.0
+301,USA,Wading,18,N,Teenager,bull shark,0.0,0.0,0.0,0.0,0.0
 302,AUSTRALIA,Surfing,40,N,Adult,white shark,10.0,20.0,0.0,0.0,30.0
 303,AUSTRALIA,Scuba diving,23,Y,Adult,white shark,0.0,0.0,0.0,0.0,0.0
 304,USA,Surfing,37,N,Adult,white shark,0.0,20.0,0.0,0.0,20.0
@@ -312,9 +312,9 @@
 310,USA,Surfing,47,N,Adult,tiger shark,0.0,0.0,0.0,0.0,0.0
 311,AUSTRALIA,Snorkeling,26,Y,Adult,white shark,0.0,0.0,0.0,0.0,0.0
 312,USA,Diving in aquarium display tank,45,N,Adult,tiger shark,10.0,0.0,0.0,100.0,110.0
-313,AUSTRALIA,Swimming,18,N,Adult,bull shark,10.0,0.0,0.0,0.0,10.0
+313,AUSTRALIA,Swimming,18,N,Teenager,bull shark,10.0,0.0,0.0,0.0,10.0
 314,NEW ZEALAND,Fishing from a kayak,39,N,Adult,white shark,0.0,0.0,0.0,0.0,0.0
-315,AUSTRALIA,Scurfing (surfboard being  towed behind a boat),18,Y,Adult,white shark,0.0,0.0,0.0,0.0,0.0
+315,AUSTRALIA,Scurfing (surfboard being  towed behind a boat),18,Y,Teenager,white shark,0.0,0.0,0.0,0.0,0.0
 316,AUSTRALIA,Spearfishing,38,Y,Adult,bull shark,0.0,20.0,0.0,0.0,20.0
 317,SOUTH AFRICA,Swimming,77,Y,Senior,white shark,0.0,0.0,0.0,0.0,0.0
 318,USA,Surfing,38,N,Adult,white shark,10.0,20.0,0.0,0.0,30.0
@@ -349,7 +349,7 @@
 347,NEW ZEALAND,Scuba diving,44,N,Adult,white shark,10.0,0.0,0.0,0.0,10.0
 348,AUSTRALIA,Swimming,24,N,Adult,nurse shark,0.0,20.0,0.0,0.0,20.0
 349,AUSTRALIA,Swimming,84,Y,Senior,bull shark,0.0,0.0,0.0,0.0,0.0
-350,AUSTRALIA,Snorkeling,18,N,Adult,hammerhead shark,10.0,0.0,0.0,0.0,10.0
+350,AUSTRALIA,Snorkeling,18,N,Teenager,hammerhead shark,10.0,0.0,0.0,0.0,10.0
 351,SOUTH AFRICA,Snorkeling,25,N,Adult,white shark,10.0,0.0,0.0,100.0,110.0
 352,AUSTRALIA,Swimming,23,Y,Adult,bull shark,0.0,0.0,0.0,0.0,0.0
 353,USA,Body boarding,48,N,Adult,white shark,0.0,20.0,0.0,0.0,20.0
@@ -399,7 +399,7 @@
 397,USA,Swimming,55,N,Adult,bull shark,10.0,0.0,50.0,0.0,60.0
 398,USA,Swimming ,44,N,Adult,bull shark,10.0,0.0,0.0,100.0,110.0
 399,NEW CALEDONIA,Spearfishing,35,Y,Adult,tiger shark,0.0,0.0,0.0,0.0,0.0
-400,BRAZIL,Surfing,18,N,Adult,tiger shark,0.0,20.0,0.0,0.0,20.0
+400,BRAZIL,Surfing,18,N,Teenager,tiger shark,0.0,20.0,0.0,0.0,20.0
 401,USA,Swimming,51,N,Adult,tiger shark,10.0,0.0,0.0,0.0,10.0
 402,SOUTH AFRICA,Surfing,35,N,Adult,white shark,0.0,20.0,0.0,0.0,20.0
 403,USA,"Surfing, lying on surfboard",16,N,Teenager,tiger shark,10.0,0.0,0.0,0.0,10.0
@@ -416,7 +416,7 @@
 414,AUSTRALIA,Surfing,35,N,Adult,tiger shark,10.0,0.0,0.0,100.0,110.0
 415,MAURITIUS,Spearfishing,47,N,Adult,bull shark,0.0,20.0,0.0,0.0,20.0
 416,SOUTH AFRICA,Spearfishing,30,N,Adult,white shark,0.0,0.0,0.0,0.0,0.0
-417,SOUTH AFRICA,Surfing,18,N,Adult,white shark,0.0,20.0,0.0,0.0,20.0
+417,SOUTH AFRICA,Surfing,18,N,Teenager,white shark,0.0,20.0,0.0,0.0,20.0
 418,USA,Swimming,9,Y,Child,tiger shark,0.0,0.0,0.0,0.0,0.0
 419,USA,Surfing,32,N,Adult,white shark,0.0,0.0,0.0,0.0,0.0
 420,BRAZIL,Surfing,22,Y,Adult,white shark,10.0,0.0,0.0,100.0,110.0
@@ -496,7 +496,7 @@
 494,USA,Lying on surfboard,30,N,Adult,tiger shark,10.0,0.0,0.0,0.0,10.0
 495,USA,Kayaking,46,N,Adult,white shark,0.0,0.0,0.0,0.0,0.0
 496,FIJI,Scuba diving,30,N,Adult,hammerhead shark,10.0,0.0,0.0,0.0,10.0
-497,USA,Body boarding,18,Y,Adult,tiger shark,0.0,20.0,0.0,0.0,20.0
+497,USA,Body boarding,18,Y,Teenager,tiger shark,0.0,20.0,0.0,0.0,20.0
 498,USA,Hookah diving for sea urchins,40,N,Adult,white shark,0.0,20.0,0.0,0.0,20.0
 499,USA,Surfing,28,N,Adult,tiger shark,10.0,0.0,50.0,0.0,60.0
 500,AUSTRALIA,Surfing,28,Y,Adult,white shark,0.0,0.0,0.0,0.0,0.0
@@ -516,7 +516,7 @@
 514,REUNION,Surfing,30,N,Adult,tiger shark,10.0,0.0,0.0,0.0,10.0
 515,USA,Surfing,32,N,Adult,white shark,10.0,20.0,0.0,100.0,130.0
 516,HONG KONG,Swimming ,65,Y,Senior,tiger shark,0.0,20.0,50.0,0.0,70.0
-517,AUSTRALIA,Scuba diving,18,N,Adult,nurse shark,10.0,20.0,0.0,0.0,30.0
+517,AUSTRALIA,Scuba diving,18,N,Teenager,nurse shark,10.0,20.0,0.0,0.0,30.0
 518,USA,Surfing,38,N,Adult,white shark,0.0,0.0,0.0,0.0,0.0
 519,SOUTH AFRICA,Spearfishing,20,N,Adult,white shark,0.0,20.0,0.0,0.0,20.0
 520,USA,Surfing,43,N,Adult,tiger shark,0.0,0.0,0.0,0.0,0.0
@@ -568,7 +568,7 @@
 566,ITALY,Snorkeling,13,N,Teenager,white shark,0.0,20.0,0.0,0.0,20.0
 567,AUSTRALIA,Free diving for scallops,33,Y,Adult,white shark,0.0,0.0,0.0,0.0,0.0
 568,USA,Scuba Diving for lobster (at surface),29,N,Adult,white shark,0.0,0.0,0.0,0.0,0.0
-569,SOUTH AFRICA,Surfing,18,N,Adult,white shark,0.0,20.0,0.0,0.0,20.0
+569,SOUTH AFRICA,Surfing,18,N,Teenager,white shark,0.0,20.0,0.0,0.0,20.0
 570,SOUTH AFRICA,Spearfishing,34,N,Adult,white shark,0.0,0.0,0.0,0.0,0.0
 571,AUSTRALIA,Sailing on catamaran & fell into the water,16,Y,Teenager,tiger shark,0.0,0.0,0.0,0.0,0.0
 572,USA,Surfing (sitting on his board),25,N,Adult,white shark,0.0,20.0,0.0,0.0,20.0
@@ -612,7 +612,7 @@
 610,SOUTH AFRICA,Spearfishing,25,N,Adult,white shark,0.0,0.0,0.0,100.0,100.0
 611,SOUTH AFRICA,Spearfishing,23,Y,Adult,white shark,0.0,20.0,0.0,0.0,20.0
 612,SOUTH AFRICA,Spearfishing,27,N,Adult,white shark,0.0,0.0,0.0,0.0,0.0
-613,SOUTH AFRICA,Surfing,18,N,Adult,tiger shark,0.0,20.0,0.0,0.0,20.0
+613,SOUTH AFRICA,Surfing,18,N,Teenager,tiger shark,0.0,20.0,0.0,0.0,20.0
 614,SOUTH AFRICA,Spearfishing,25,N,Adult,white shark,0.0,0.0,0.0,100.0,100.0
 615,AUSTRALIA,Surfing,17,N,Teenager,white shark,0.0,20.0,0.0,0.0,20.0
 616,USA,Free diving for abalone (surfacing),20,N,Adult,white shark,0.0,20.0,0.0,0.0,20.0
@@ -668,7 +668,7 @@
 666,USA,Playing with a frisbee in the shallows,12,N,Child,hammerhead shark,0.0,0.0,0.0,0.0,0.0
 667,USA,Free diving,25,N,Adult,white shark,0.0,0.0,0.0,0.0,0.0
 668,AUSTRALIA,Freediving,15,N,Teenager,nurse shark,0.0,0.0,0.0,0.0,0.0
-669,AUSTRALIA,,18,N,Adult,nurse shark,10.0,0.0,0.0,0.0,10.0
+669,AUSTRALIA,,18,N,Teenager,nurse shark,10.0,0.0,0.0,0.0,10.0
 670,AUSTRALIA,"Spearfishing, dived to pick up a float line",23,Y,Adult,white shark,0.0,0.0,0.0,0.0,0.0
 671,USA,Spearfishing,15,N,Teenager,nurse shark,0.0,20.0,0.0,0.0,20.0
 672,USA,Spearfishing,26,N,Adult,nurse shark,0.0,20.0,0.0,100.0,120.0
@@ -681,7 +681,7 @@
 679,USA,Hunting crayfish ,14,N,Teenager,nurse shark,0.0,0.0,50.0,0.0,50.0
 680,CROATIA,Swimming,33,Y,Adult,white shark,0.0,0.0,0.0,0.0,0.0
 681,USA,Diving for sand dollars,16,N,Teenager,tiger shark,0.0,20.0,0.0,0.0,20.0
-682,USA,Fishing,18,N,Adult,hammerhead shark,10.0,0.0,0.0,100.0,110.0
+682,USA,Fishing,18,N,Teenager,hammerhead shark,10.0,0.0,0.0,100.0,110.0
 683,AUSTRALIA,Shipwreck,38,Y,Adult,white shark,0.0,0.0,0.0,0.0,0.0
 684,AUSTRALIA,Treading water,13,N,Teenager,white shark,0.0,20.0,0.0,0.0,20.0
 685,USA,Free diving / spearfishing (resting on the surface),29,N,Adult,white shark,10.0,20.0,0.0,0.0,30.0
@@ -704,7 +704,7 @@
 702,USA,Spearfishing / Scuba diving (at surface),21,N,Adult,white shark,0.0,20.0,0.0,0.0,20.0
 703,AUSTRALIA,Spearfishing,23,N,Adult,white shark,10.0,0.0,0.0,0.0,10.0
 704,NEW BRITAIN,Spearfishing,22,Y,Adult,tiger shark,0.0,20.0,0.0,0.0,20.0
-705,PAPUA NEW GUINEA,Fishing / standing in waist deep water,18,N,Adult,tiger shark,10.0,0.0,0.0,0.0,10.0
+705,PAPUA NEW GUINEA,Fishing / standing in waist deep water,18,N,Teenager,tiger shark,10.0,0.0,0.0,0.0,10.0
 706,FIJI,Fishing,21,N,Adult,tiger shark,10.0,0.0,0.0,0.0,10.0
 707,USA,"Spearfishing, pulled sharks tail",16,N,Teenager,nurse shark,10.0,0.0,0.0,100.0,110.0
 708,FEDERATED STATES OF MICRONESIA,Spearfishing,26,N,Adult,tiger shark,10.0,0.0,0.0,0.0,10.0
@@ -748,11 +748,11 @@
 746,USA,Free diving,13,N,Teenager,nurse shark,10.0,0.0,0.0,0.0,10.0
 747,USA,Free diving for abalone,33,Y,Adult,white shark,0.0,0.0,50.0,0.0,50.0
 748,SOUTH AFRICA,Spearfishing,23,N,Adult,white shark,0.0,0.0,0.0,100.0,100.0
-749,USA,Treading water,18,Y,Adult,white shark,10.0,0.0,50.0,0.0,60.0
+749,USA,Treading water,18,Y,Teenager,white shark,10.0,0.0,50.0,0.0,60.0
 750,USA,Spearfishing,19,N,Adult,tiger shark,10.0,0.0,50.0,0.0,60.0
 751,AUSTRALIA,Diving for pearl shell,43,N,Adult,tiger shark,10.0,0.0,0.0,0.0,10.0
 752,AUSTRALIA,Working prawn net,20,N,Adult,nurse shark,0.0,0.0,0.0,0.0,0.0
-753,SOUTH AFRICA,Swimming,18,N,Adult,white shark,10.0,20.0,0.0,0.0,30.0
+753,SOUTH AFRICA,Swimming,18,N,Teenager,white shark,10.0,20.0,0.0,0.0,30.0
 754,USA,Surfing on air mattress,15,Y,Teenager,tiger shark,0.0,20.0,0.0,0.0,20.0
 755,AMERICAN SAMOA,Cleaning hull of ship ,22,Y,Adult,tiger shark,0.0,20.0,50.0,0.0,70.0
 756,USA,"Swimming, ducking for shells in water 0.9 m deep",12,N,Child,tiger shark,0.0,20.0,0.0,0.0,20.0
@@ -762,7 +762,7 @@
 760,USA,Wading,59,N,Adult,nurse shark,0.0,20.0,0.0,100.0,120.0
 761,USA,Walking,17,N,Teenager,tiger shark,0.0,20.0,0.0,0.0,20.0
 762,USA,Free diving,29,N,Adult,nurse shark,0.0,20.0,0.0,0.0,20.0
-763,USA,Spearfishing on Scuba,18,N,Adult,nurse shark,0.0,0.0,50.0,100.0,150.0
+763,USA,Spearfishing on Scuba,18,N,Teenager,nurse shark,0.0,0.0,50.0,100.0,150.0
 764,USA,Swimming,57,Y,Adult,white shark,0.0,20.0,0.0,0.0,20.0
 765,USA,Swimming,25,Y,Adult,white shark,10.0,0.0,50.0,0.0,60.0
 766,PAPUA NEW GUINEA,Spearfishing,19,Y,Adult,tiger shark,0.0,20.0,50.0,0.0,70.0
@@ -773,11 +773,11 @@
 771,CROATIA,Swimming,32,Y,Adult,white shark,0.0,0.0,0.0,0.0,0.0
 772,USA,Spearfishing,19,N,Adult,white shark,0.0,0.0,0.0,0.0,0.0
 773,AUSTRALIA,Swimming,25,Y,Adult,white shark,0.0,20.0,0.0,0.0,20.0
-774,ARGENTINA,Floating,18,N,Adult,white shark,10.0,20.0,0.0,0.0,30.0
+774,ARGENTINA,Floating,18,N,Teenager,white shark,10.0,20.0,0.0,0.0,30.0
 775,USA,Body surfing & treading water,17,Y,Teenager,white shark,0.0,20.0,0.0,0.0,20.0
 776,SOUTH AFRICA,Swimming,23,N,Adult,white shark,0.0,20.0,0.0,0.0,20.0
 777,SOUTH AFRICA,Treading water,24,N,Adult,white shark,10.0,20.0,0.0,0.0,30.0
-778,GREECE,Swimming,18,N,Adult,white shark,0.0,0.0,0.0,0.0,0.0
+778,GREECE,Swimming,18,N,Teenager,white shark,0.0,0.0,0.0,0.0,0.0
 779,GREECE,Swimming,16,Y,Teenager,white shark,0.0,0.0,50.0,0.0,50.0
 780,AUSTRALIA,Paddling a surfboat,19,N,Adult,nurse shark,0.0,0.0,0.0,0.0,0.0
 781,AUSTRALIA,Body surfing,21,N,Adult,white shark,10.0,20.0,0.0,0.0,30.0
@@ -790,13 +790,13 @@
 788,AUSTRALIA,Swimming,17,Y,Teenager,tiger shark,0.0,0.0,0.0,100.0,100.0
 789,USA,Underwater photography,48,N,Adult,nurse shark,0.0,0.0,0.0,0.0,0.0
 790,AUSTRALIA,Fishing,9,N,Child,nurse shark,0.0,20.0,0.0,0.0,20.0
-791,AUSTRALIA,Standing,18,N,Adult,white shark,0.0,20.0,0.0,0.0,20.0
+791,AUSTRALIA,Standing,18,N,Teenager,white shark,0.0,20.0,0.0,0.0,20.0
 792,IRAQ,Swimming,15,N,Teenager,bull shark,0.0,20.0,0.0,0.0,20.0
 793,SOUTH AFRICA,Swimming,17,Y,Teenager,white shark,0.0,0.0,50.0,0.0,50.0
 794,PANAMA,Dived overboard to check propeller of US Navy motor torpedo boat,20,Y,Adult,white shark,0.0,20.0,0.0,0.0,20.0
-795,AUSTRALIA,Fishing for cod,18,N,Adult,white shark,0.0,0.0,0.0,0.0,0.0
+795,AUSTRALIA,Fishing for cod,18,N,Teenager,white shark,0.0,0.0,0.0,0.0,0.0
 796,AUSTRALIA,Dog paddling or standing,15,Y,Teenager,bull shark,0.0,20.0,0.0,0.0,20.0
-797,SOUTH AFRICA,Swimming ,18,Y,Adult,white shark,0.0,0.0,50.0,0.0,50.0
+797,SOUTH AFRICA,Swimming ,18,Y,Teenager,white shark,0.0,0.0,50.0,0.0,50.0
 798,AUSTRALIA,Treading water,24,N,Adult,tiger shark,0.0,20.0,0.0,0.0,20.0
 799,AUSTRALIA,Swimming,28,Y,Adult,bull shark,0.0,0.0,0.0,0.0,0.0
 800,SOUTH ATLANTIC OCEAN,HMAS Parramatta torpedoed & sunk by the U-559,23,N,Adult,tiger shark,10.0,0.0,0.0,0.0,10.0
@@ -804,13 +804,13 @@
 802,SOUTH AFRICA,Swimming,17,Y,Teenager,white shark,0.0,20.0,0.0,0.0,20.0
 803,AUSTRALIA,"Free diving for trochus shell, swimming to dinghy",27,N,Adult,tiger shark,0.0,20.0,0.0,0.0,20.0
 804,BAHAMAS,"Dress diving, filming shark & pulling it through the water for a motion picture scene",38,N,Adult,nurse shark,0.0,0.0,50.0,0.0,50.0
-805,AUSTRALIA,Fishing,18,N,Adult,tiger shark,0.0,20.0,0.0,0.0,20.0
+805,AUSTRALIA,Fishing,18,N,Teenager,tiger shark,0.0,20.0,0.0,0.0,20.0
 806,IRAQ,"Swimming, naked",9,N,Child,bull shark,10.0,20.0,0.0,0.0,30.0
 807,AUSTRALIA,Swimming ,25,Y,Adult,tiger shark,0.0,0.0,0.0,0.0,0.0
-808,AUSTRALIA,Swimming ,18,Y,Adult,tiger shark,0.0,0.0,0.0,0.0,0.0
+808,AUSTRALIA,Swimming ,18,Y,Teenager,tiger shark,0.0,0.0,0.0,0.0,0.0
 809,AUSTRALIA,"Diving from the lugger San, operated by the Protector of the Aborigines",38,N,Adult,tiger shark,0.0,0.0,0.0,100.0,100.0
 810,AUSTRALIA,Swimming,32,Y,Adult,white shark,10.0,20.0,0.0,0.0,30.0
-811,AUSTRALIA,Holding shark's tail ,18,N,Adult,nurse shark,10.0,0.0,0.0,100.0,110.0
+811,AUSTRALIA,Holding shark's tail ,18,N,Teenager,nurse shark,10.0,0.0,0.0,100.0,110.0
 812,AUSTRALIA,Fishing,50,Y,Adult,white shark,0.0,0.0,0.0,0.0,0.0
 813,USA,Swimming crawl stroke,16,Y,Teenager,white shark,10.0,20.0,0.0,0.0,30.0
 814,AUSTRALIA,"Diving for trochus , but swimming on surface",16,Y,Teenager,tiger shark,0.0,0.0,0.0,0.0,0.0
@@ -820,14 +820,14 @@
 818,AUSTRALIA,Swimming,27,Y,Adult,white shark,10.0,20.0,0.0,100.0,130.0
 819,AUSTRALIA,Standing,22,Y,Adult,white shark,0.0,20.0,0.0,0.0,20.0
 820,AUSTRALIA,Splashing,13,N,Teenager,tiger shark,10.0,0.0,0.0,0.0,10.0
-821,CROATIA,Swimming,18,Y,Adult,white shark,0.0,0.0,0.0,0.0,0.0
+821,CROATIA,Swimming,18,Y,Teenager,white shark,0.0,0.0,0.0,0.0,0.0
 822,AUSTRALIA,Pearl diving,17,N,Teenager,tiger shark,10.0,0.0,0.0,0.0,10.0
 823,USA,,50,N,Adult,tiger shark,0.0,0.0,0.0,0.0,0.0
 824,USA,Swimming,24,Y,Adult,bull shark,0.0,0.0,0.0,0.0,0.0
 825,AUSTRALIA,Swimming,24,N,Adult,nurse shark,10.0,0.0,0.0,0.0,10.0
 826,USA,Swimming ,20,N,Adult,hammerhead shark,0.0,20.0,0.0,0.0,20.0
 827,USA,Swimming,21,N,Adult,tiger shark,10.0,0.0,0.0,0.0,10.0
-828,AUSTRALIA,Diving off pier & treading water,18,Y,Adult,white shark,0.0,0.0,0.0,0.0,0.0
+828,AUSTRALIA,Diving off pier & treading water,18,Y,Teenager,white shark,0.0,0.0,0.0,0.0,0.0
 829,SOUTH AFRICA,Swimming,23,N,Adult,white shark,10.0,0.0,0.0,0.0,10.0
 830,AUSTRALIA,Diving by wharf,16,Y,Teenager,tiger shark,10.0,20.0,50.0,0.0,80.0
 831,AUSTRALIA,Standing in knee-deep water,19,N,Adult,nurse shark,0.0,0.0,0.0,0.0,0.0
@@ -838,9 +838,9 @@
 836,ITALY,Swimming,20,Y,Adult,white shark,0.0,0.0,50.0,0.0,50.0
 837,USA,Swimming with dog near canning factory,15,N,Teenager,white shark,10.0,20.0,0.0,0.0,30.0
 838,AUSTRALIA,Floating on his back,55,Y,Adult,tiger shark,0.0,20.0,0.0,0.0,20.0
-839,SOUTH AFRICA,Swimming,18,N,Adult,white shark,0.0,20.0,50.0,0.0,70.0
+839,SOUTH AFRICA,Swimming,18,N,Teenager,white shark,0.0,20.0,50.0,0.0,70.0
 840,AUSTRALIA,Bathing in knee-deep water,21,Y,Adult,white shark,10.0,20.0,0.0,0.0,30.0
-841,AUSTRALIA,Swimming,18,Y,Adult,white shark,10.0,0.0,0.0,0.0,10.0
+841,AUSTRALIA,Swimming,18,Y,Teenager,white shark,10.0,0.0,0.0,0.0,10.0
 842,USA,Swimming,24,Y,Adult,white shark,0.0,20.0,0.0,0.0,20.0
 843,SOUTH AFRICA,Swimming,29,Y,Adult,white shark,10.0,20.0,0.0,100.0,130.0
 844,USA,Fishing (Seining),15,N,Teenager,white shark,10.0,0.0,0.0,0.0,10.0

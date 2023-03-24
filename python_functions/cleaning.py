@@ -1,7 +1,7 @@
 
 
 def reading_csv():
-    attacks = pd.read_csv(f"/Users/lauurasarabia/ironhack/projects/project1_datacleaning/data/attacks.csv", encoding="latin1")
+    attacks = pd.read_csv(f"/Users/lauurasarabia/ironhack/projects/Shark_attacks/data/attacks.csv", encoding="latin1")
     return attacks
 
 def dropping_nan():
